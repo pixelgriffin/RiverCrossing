@@ -88,7 +88,7 @@ public class Tree {
 		}
 	}
 	
-	//edit missionary count, cannibal count, and boat maximum here.
+	//edit missionary, cannibal, and boat maximum.
 	public static final int MISS_MAX = 3;
 	public static final int CANN_MAX = 3;
 	public static final int BOAT_MAX = 3;
